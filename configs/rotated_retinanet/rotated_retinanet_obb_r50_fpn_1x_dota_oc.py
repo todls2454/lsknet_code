@@ -1,6 +1,6 @@
 _base_ = [
-    '../_base_/datasets/dotav1.py', '../_base_/schedules/schedule_1x.py',
-    '../_base_/default_runtime.py'
+    '/home/hansujung2339/Large-Selective-Kernel-Network/configs/_base_/datasets/dotav1.py', '/home/hansujung2339/Large-Selective-Kernel-Network/configs/_base_/schedules/schedule_1x.py',
+    '/home/hansujung2339/Large-Selective-Kernel-Network/configs/_base_/default_runtime.py'
 ]
 
 angle_version = 'oc'
